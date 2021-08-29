@@ -1,0 +1,102 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+#container-imagem {
+    position: relative;
+    height: 100%;
+    width: 100%;
+    background-image: url('../img/fundo-conteudo.jpeg');
+    position: absolute;
+
+}
+
+.logo {
+    width: 100px;
+    height: 100px;
+    position: relative;
+    top: -350px;
+    left: 900px;
+    float: left;
+}
+
+img{
+    width: 300px;
+}
+
+.form-container{
+    position: absolute;
+    margin-top: 20px;
+    margin-left: 20px;
+    border-radius: 16px;
+    border-width: 1;
+    border-color: #0a0550;
+    border-style: solid;    
+    right: 50%;
+    left: 0%;
+    max-height: 90%;
+}
+h1{
+    margin-left: 10px;
+}
+h3{
+    margin-left: 10px;
+}
+label{
+    font-weight: bolder;
+    margin-bottom: 3px;
+    margin-left: 15px;
+    margin-top: 15px;
+}
+.formdivs{
+    background-color: orange;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    border-radius: 8px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+input{
+    margin-bottom: 3px;
+    margin-left: 15px;
+    border-radius: 8px;
+    
+}
+select{
+    margin-bottom: 3px;
+    margin-left: 15px;
+    width: 200px;
+}
+input:focus{
+    background-color: #cee2ec;
+}
+textarea{
+    width: 88%;
+    height: 10vh;
+    margin-bottom: 3px;
+    margin-left: 15px;
+}
+textarea:focus{
+    background-color: #cee2ec;
+}
+.center {
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.botao{
+    width: 150px;
+    height: 40px;
+    margin-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    background-color: #0a0550;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.botao:hover{
+    background-color: white;
+    color: #0a0550;
+}
+
