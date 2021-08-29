@@ -1,5 +1,3 @@
-# projetotechitau-thais
-Repositório criado para envio do projeto do itaú
-
+# Projeto Individual - Thais Chagas
 
 Formulário "Trabalhe conosco" criado para o desafio individual do processo seletive do Banco Itaú
