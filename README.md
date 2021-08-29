@@ -23,8 +23,10 @@ https://www.youtube.com/watch?v=vQAvjof1oe4
 Duvidas gerais
 
 www.google.com.br
+
 EQUIPE DO GRUPO 2 Duvidas, treinos e bate papos em calls durante o periodo do desafio. Burno, Herick e Allan obrigada!
 Meu irmão Victor que sempre esteve disposto a tirar minhas dúvidas e me explicou tudo com bastante carinho e atenção
 
-PROJETO FEITO PELO Bruno da Silva Santos Programa Formação tech Itaú em parceria com Gama Academy 2021.
+PROJETO FEITO POR THAIS APARECIDA CHAGAS DA SILVA
+Programa Formação tech Itaú em parceria com Gama Academy 2021.
 
